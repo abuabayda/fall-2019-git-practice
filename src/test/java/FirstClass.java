@@ -6,9 +6,5 @@ public class FirstClass {
         System.out.println("Second Change");
         System.out.println("Third change");
 
-
-
-
-
     }
 }
