@@ -5,13 +5,6 @@ public class FirstClass {
         System.out.println("change One");
         System.out.println("Second Change");
         System.out.println("Third change");
-<<<<<<< HEAD
-=======
         //first change
-
-
-
->>>>>>> 469d103ff12c43f6fc51507efdb371c96839acdb
-
     }
 }
