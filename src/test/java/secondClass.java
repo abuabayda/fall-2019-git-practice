@@ -1,3 +1,7 @@
 public class secondClass {
-  //second class
+  public static void main(String[] args) {
+
+    //second class
+    System.out.println("hi every one");
+  }
 }
